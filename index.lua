@@ -11,7 +11,10 @@ local function loadmode(path, reg)
         fs.readdirSync(path)
     )
 
-    client['_'..reg] = {}
+    if reg == 'commands' then 
+        client['_'..reg] = {}
+    end 
+
     for _, ext in pairs(exts) do
         ext = require(path..'/'..ext)
         if reg == 'commands' then 
