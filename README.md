@@ -1,6 +1,6 @@
 # Blx Tooling 
 
-### This is a discord bot designed to provide utilitaztion of roblox features through discord and its messaging the bot is far from done it may take a while to complete, please feel free to browse around and report any errors.
+This is a discord bot designed to provide utilitaztion of roblox features through discord and its messaging the bot is far from done it may take a while to complete, please feel free to browse around and report any errors.
 
 
 # Why lua
